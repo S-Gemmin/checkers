@@ -1,0 +1,29 @@
+/* By: Gemmin Sugiura, Selena Chow, Trevor Weiler, Tyler Qiu */ 
+
+#container {
+    background-color: #e7dfd3;
+    color: #000000;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+#checkers {
+    text-align: center;
+    padding: 20px;
+}
+
+#output {
+    background-color: #dbcdb8;
+    color: #000000;
+    border-style: solid;
+    margin-left: 20px; 
+    width: 200px; 
+    text-align: center; 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px; 
+    font-weight: bold;
+    padding: 10px; 
+}
